@@ -1,0 +1,8 @@
+{
+  "name": "Zera AI: All-in-One Career & Creative Platform",
+  "description": "A comprehensive AI-powered platform for content creation, image design, and real-time AI interview preparation with biometric and speech analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
